@@ -1,0 +1,10 @@
+{
+  "name": "环形燃料电池双涵道推进器",
+  "short_name": "燃电推进器",
+  "description": "六站渐扩环形电堆与三路气流三维演示",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eaf2f5",
+  "theme_color": "#078fa0"
+}
