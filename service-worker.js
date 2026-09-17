@@ -1,4 +1,4 @@
-const CACHE_NAME = "fuelcell-propulsion-v4-2";
+const CACHE_NAME = "fuelcell-propulsion-v5-thermal-1";
 
 async function discoverCoreAssets() {
   const response = await fetch("./index.html", { cache: "no-cache" });
